@@ -1,0 +1,4 @@
+[submodule "pwsh-utils"]
+	path = utils/pwsh-utils
+	url = https://github.com/exTerEX/pwsh-utils.git
+	branch = v1
