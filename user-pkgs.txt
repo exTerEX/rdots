@@ -1,0 +1,9 @@
+rmarkdown
+tidyverse
+tidymodels
+lubridate
+ggstatsplot
+ggpubr
+gggenes
+ggpmisc
+xtable
