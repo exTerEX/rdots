@@ -6,9 +6,6 @@
 #
 #  ------------------------------------------------------------------------
 
-# Ensure Library is set:
-#.libPaths("~/.config/R/lib/4.2")
-
 # Set Default Options:
 options(
   repos = c(CRAN = "https://cran.rstudio.com"),
@@ -30,7 +27,7 @@ options(
   usethis.protocol = "ssh",
   usethis.description = list(
     `Authors@R` = 'person("Andreas", "Sagen",
-                         email = "andreassag@hotmail.no",
+                         email = "a.s.sagen@odont.uio.no",
                          role = c("aut", "cre"),
                          comment = c(ORCID = "0000-0003-1193-8304"))',
     License = "MIT",
