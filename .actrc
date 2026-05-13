@@ -1,0 +1,2 @@
+-P ubuntu-latest=ubuntu:latest
+-P macos-latest=ubuntu:latest

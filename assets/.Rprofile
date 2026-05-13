@@ -9,7 +9,7 @@
 # Set Default Options:
 options(
   repos = c(CRAN = "https://cran.rstudio.com"),
-  editor = "notepad",
+  editor = "code",
   pager = "internal",
   useFancyQuotes = FALSE,
   tab.width = 2,
